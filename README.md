@@ -12,7 +12,8 @@
 
 * Data dictionary: 
 
-| Name | Modeling Role | Measurement Level| Description|
+| Name | Modeling Role | Measurement Level| Description |
+|------|---------------|------------------|-------------|
 | Date	| Input	| Date	| Date of observation |
 | Datetime |	Input	| Date	| Date of observation |
 | Tempmax	| Input	|Interval	|Maximum daily temperature (°F) |
