@@ -39,4 +39,5 @@
 | Uvindex	| Input	| Interval	| UV index |
 | Moonphase	| Input	| Interval	| Moon phase (0=new, 1=full) |
 | Icon	| Input	| Nominal	| Weather icon for the day |
+| Which_High | Outpur | Categorical | Whether Pickups or Drop-offs are higher on a given day (PU_High or DO_High) |
 
