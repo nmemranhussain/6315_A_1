@@ -72,13 +72,13 @@ The project analyzes Capital Bikeshare trip data from February, March, and April
 
 ### Quantitative Analysis
 
-![Model Comparison](6315_A_1_3.jpg) 
+![Model Comparison](6315_A_1_3.jpg)  
 Figure 1. Comparison of the Decision Tree, Linear SVM and KNN (K=10) methods by AUC evaluated under 5-fold cross-validation.
 
-![Confusion_matrix](6315_A_1_2.jpg)
+![Confusion_matrix](6315_A_1_2.jpg)  
 Figure 2. Confusion matrix of this classification tree in the test data
 
-![Decision Tree](6315_A_1_1.jpg)
+![Decision Tree](6315_A_1_1.jpg)  
 Figure 3. Visualization of a classification tree with **max_depth=3** for predicting '**Which_High**' using '**entropy**' as the criterion.
 
 
