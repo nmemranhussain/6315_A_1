@@ -1,4 +1,5 @@
 # Classification Tree and Performance Evaluation
+The project analyzes Capital Bikeshare trip data from February, March, and April 2024, specifically focusing on the '22nd & H St NW' station. The notebook details reading and concatenating the data, and calculating the daily number of pickups and dropoffs at this station. Weather data from Visual Crossing is incorporated and merged with the bike data. The project aims to predict whether the number of pickups is greater than the number of dropoffs at the station, creating a categorical target variable for this purpose. The 'icon' weather feature is dummy encoded for modeling. A classification tree with a maximum depth of 3 is trained and visualized to predict the target variable. The performance of this classification tree is evaluated using accuracy and a confusion matrix on the test data. Additionally, the notebook compares the performance of Linear SVM, KNN (K=10), and the Decision Tree Classifier using AUC evaluated under 5-fold cross-validation to determine the best model. Finally, the out-of-sample performance of the best model (Linear SVM) is reported using AUC.
 
 ### Basic Information
 
