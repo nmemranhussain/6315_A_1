@@ -53,15 +53,6 @@ The project analyzes Capital Bikeshare trip data from February, March, and April
 - **Software used to implement the model**: Python, scikit-learn
 - **Version of the modeling software**: numpy: 2.0.2, pandas: 2.2.2, scikit-learn: 1.6.1, matplotlib: 3.10.0, seaborn: 0.13.2, Python 3.11.12
 
-### Software Used to Implement the Model
-- **Software:** Python (with libraries such as Pandas, Scikit-learn, seaborn & matplotlib)
-
-### Version of the Modeling Software: 
-- **'pandas'**: '2.2.2',
-- **'scikit-learn'**: '1.4.2',
-- **'seaborn'**: '0.13.2',
-- **'matplotlib'**: '3.8.4**
-
 ### Evaluation Metrics  
 - **Accuracy:** It Measures the proportion of correctly predicted labels (both PU_High and DO_High) out of all predictions. In this project, it indicates how well the classification tree model can distinguish days where pickups exceed drop-offs or vice versa based on weather features.
 - **Confusion:** A 2X2 table showing counts of true positives, true negatives, false positives, and false negatives. It is useful for understanding where the model misclassifies — e.g., how often it falsely predicts "PU_High" when it's actually "DO_High."
