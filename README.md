@@ -44,7 +44,8 @@
 - **Source of Taining Dataset Name:** Capital Bikeshare Data ('202402-capitalbikeshare-tripdata.csv', '202403-capitalbikeshare-tripdata.csv', '202404-capitalbikeshare-tripdata.csv' & 'DC_weather_2024.csv')  
 - **Number of Samples:** 318689, 436947, 490266 & 367  
 - **Features Used:** 'temp','precip','windspeed','uvindex'&'icon'
-- **Target variable Used:** 'Number of pick-ups (PO_ct) & Number of Drop-offs (DO_ct)
+- **Target variable Used:** '**Which_high**' Whether Pickups or Drop-offs are higher on a given day (PU_High or DO_High)
 - **Data Source:** [capitalbikeshare-data](https://s3.amazonaws.com/capitalbikeshare-data/index.html)
 - **How training data was divided into training and validation data**: 60% training, 40% test
+- **Any differences in columns between training and test data**: None 
 
