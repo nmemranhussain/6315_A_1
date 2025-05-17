@@ -53,5 +53,14 @@ The project analyzes Capital Bikeshare trip data from February, March, and April
 - **Software used to implement the model**: Python, scikit-learn
 - **Version of the modeling software**: numpy: 2.0.2, pandas: 2.2.2, scikit-learn: 1.6.1, matplotlib: 3.10.0, seaborn: 0.13.2, Python 3.11.12
 
+### Software Used to Implement the Model
+- **Software:** Python (with libraries such as Pandas, Scikit-learn, seaborn & matplotlib)
+
+### Version of the Modeling Software: 
+- **'pandas'**: '2.2.2',
+- **'scikit-learn'**: '1.4.2',
+- **'seaborn'**: '0.13.2',
+- **'matplotlib'**: '3.8.4**
+
 
 
