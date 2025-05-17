@@ -46,9 +46,9 @@
 - **Features Used:** 'temp','precip','windspeed','uvindex'&'icon'
 - **Target variable Used:** '**Which_high**' Whether Pickups or Drop-offs are higher on a given day (PU_High or DO_High)
 - **Data Source:** [capitalbikeshare-data](https://s3.amazonaws.com/capitalbikeshare-data/index.html)
-- **How training data was divided into training and validation data**: 60% training, 40% test
+- **How training data was divided into training and test data**: 60% training, 40% test
 - **Any differences in columns between training and test data**: None
-- **Type of model**: Explainable Boosting Machine (EBM)
+- **Type of model**: Decision Tree, Linear SVM and KNN (K=10)
 - **Software used to implement the model**: Python, scikit-learn
 - **Version of the modeling software**: numpy: 2.0.2, pandas: 2.2.2, scikit-learn: 1.6.1, matplotlib: 3.10.0, seaborn: 0.13.2, Python 3.11.12
 
