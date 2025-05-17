@@ -8,3 +8,6 @@
 * **License**: [Apache License 2.0](https://github.com/nmemranhussain/RML_A_1_Group_11/blob/main/LICENSE)
 * **Model implementation code**: [Assignment](https://github.com/nmemranhussain/6315_A_1/blob/main/6315_A_1_final.ipynb),
  
+### Training Data
+
+* Data dictionary: 
