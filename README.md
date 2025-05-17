@@ -39,5 +39,10 @@
 | Uvindex	| Input	| Interval	| UV index |
 | Moonphase	| Input	| Interval	| Moon phase (0=new, 1=full) |
 | Icon	| Input	| Nominal	| Weather icon for the day |
-| Which_High | Outpur | Categorical | Whether Pickups or Drop-offs are higher on a given day (PU_High or DO_High) |
+| Which_High | Output | Categorical | Whether Pickups or Drop-offs are higher on a given day (PU_High or DO_High) |
 
+* **Source of training data**: [HMDA Trainning Datasets](https://github.com/nmemranhussain/RML_A_1_Group_11/blob/main/hmda_train_preprocessed.zip)
+* **How training data was divided into training and validation data**: 50% training, 25% validation, 25% test
+* **Number of rows in training and validation data**:
+* **Train data**: rows = 112253, columns = 23
+* **Validation data**: rows = 48085, columns = 23
